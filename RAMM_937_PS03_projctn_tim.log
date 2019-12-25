@@ -1,58 +1,69 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.11.7)  21 DEC 2019 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.16)  25 DEC 2019 13:14
 entering extended mode
-**./RAMM_937_PS03_projctn_tim.tex
-(RAMM_937_PS03_projctn_tim.tex
-LaTeX2e <2018-04-01> patch level 5
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**RAMM_937_PS03_projctn_tim.tex
+(./RAMM_937_PS03_projctn_tim.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 143.
 )
-(RAMM_937_PS03_projctn_tim.aux)
+(./RAMM_937_PS03_projctn_tim.aux)
 \openout1 = `RAMM_937_PS03_projctn_tim.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -68,7 +79,7 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 
-(C:\Users\ogird\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -81,72 +92,69 @@ LaTeX Font Info:    ... okay on input line 13.
 \MPnumerator=\count92
 \makeMPintoPDFobject=\count93
 \everyMPtoPDFconversion=\toks16
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/07 v0.28 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
+
 <logo1.png, id=1, 2007.5pt x 1734.48pt>
 File: logo1.png Graphic file (type png)
-<use logo1.png>
-Package pdftex.def Info: logo1.png  used on input line 18.
+ <use logo1.png>
+Package pdftex.def Info: logo1.png used on input line 18.
 (pdftex.def)             Requested size: 100.38087pt x 86.72908pt.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -157,8 +165,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 57.
  [1
 
-{C:/Users/ogird/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo1.png
->] [2] [3] [4]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo1.png>] [2] [3] [4]
 Package epstopdf Info: Source file: <PS03_projection_code_modif/Results/GR_orig
 _diff_IRF1.eps>
 (epstopdf)                    date: 2019-12-20 18:23:20
@@ -167,27 +174,28 @@ _diff_IRF1.eps>
 _diff_IRF1-eps-converted-to.pdf>
 (epstopdf)                    date: 2019-12-21 21:10:28
 (epstopdf)                    size: 43990 bytes
-(epstopdf)             Command: <epstopdf --outfile=PS03_projection_code_modif/
-Results/GR_orig_diff_IRF1-eps-converted-to.pdf PS03_projection_code_modif/Resul
-ts/GR_orig_diff_IRF1.eps>
-(epstopdf)             \includegraphics on input line 211.
+(epstopdf)             Command: <repstopdf --outfile=PS03_projection_code_modif
+/Results/GR_orig_diff_IRF1-eps-converted-to.pdf PS03_projection_code_modif/Resu
+lts/GR_orig_diff_IRF1.eps>
+(epstopdf)             \includegraphics on input line 207.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./PS03_projection_code_modif/Results/GR_orig_dif
 f_IRF1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mo
 st version <1.5> allowed
+
 <PS03_projection_code_modif/Results/GR_orig_diff_IRF1-eps-converted-to.pdf, id=
-30, 349.305pt x 287.0725pt>
+31, 349.305pt x 287.0725pt>
 File: PS03_projection_code_modif/Results/GR_orig_diff_IRF1-eps-converted-to.pdf
  Graphic file (type pdf)
-<use PS03_projection_code_modif/Results/GR_orig_diff_IRF1-eps-converted-to.pdf>
 
+<use PS03_projection_code_modif/Results/GR_orig_diff_IRF1-eps-converted-to.pdf>
 Package pdftex.def Info: PS03_projection_code_modif/Results/GR_orig_diff_IRF1-e
-ps-converted-to.pdf  used on input line 211.
+ps-converted-to.pdf used on input line 207.
 (pdftex.def)             Requested size: 361.34999pt x 296.98894pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 211--212
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 207--208
 [][] 
  []
 
@@ -199,194 +207,413 @@ _diff_IRF2.eps>
 _diff_IRF2-eps-converted-to.pdf>
 (epstopdf)                    date: 2019-12-21 21:10:29
 (epstopdf)                    size: 32644 bytes
-(epstopdf)             Command: <epstopdf --outfile=PS03_projection_code_modif/
-Results/GR_orig_diff_IRF2-eps-converted-to.pdf PS03_projection_code_modif/Resul
-ts/GR_orig_diff_IRF2.eps>
-(epstopdf)             \includegraphics on input line 216.
+(epstopdf)             Command: <repstopdf --outfile=PS03_projection_code_modif
+/Results/GR_orig_diff_IRF2-eps-converted-to.pdf PS03_projection_code_modif/Resu
+lts/GR_orig_diff_IRF2.eps>
+(epstopdf)             \includegraphics on input line 212.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./PS03_projection_code_modif/Results/GR_orig_dif
 f_IRF2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mo
 st version <1.5> allowed
+
 <PS03_projection_code_modif/Results/GR_orig_diff_IRF2-eps-converted-to.pdf, id=
-31, 488.82625pt x 508.90125pt>
+32, 488.82625pt x 508.90125pt>
 File: PS03_projection_code_modif/Results/GR_orig_diff_IRF2-eps-converted-to.pdf
  Graphic file (type pdf)
-<use PS03_projection_code_modif/Results/GR_orig_diff_IRF2-eps-converted-to.pdf>
 
+<use PS03_projection_code_modif/Results/GR_orig_diff_IRF2-eps-converted-to.pdf>
 Package pdftex.def Info: PS03_projection_code_modif/Results/GR_orig_diff_IRF2-e
-ps-converted-to.pdf  used on input line 216.
+ps-converted-to.pdf used on input line 212.
+(pdftex.def)             Requested size: 289.07999pt x 300.95576pt.
+Package epstopdf Info: Source file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF1.eps>
+(epstopdf)                    date: 2019-12-25 10:58:54
+(epstopdf)                    size: 53970 bytes
+(epstopdf)             Output file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF1-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=PS03_projection_code_modif
+/Results/GR_res_converge1_diff_IRF1-eps-converted-to.pdf PS03_projection_code_m
+odif/Results/GR_res_converge1_diff_IRF1.eps>
+(epstopdf)             \includegraphics on input line 220.
+runsystem(repstopdf --outfile=PS03_projection_code_modif/Results/GR_res_converg
+e1_diff_IRF1-eps-converted-to.pdf PS03_projection_code_modif/Results/GR_res_con
+verge1_diff_IRF1.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-25 13:14:05
+(epstopdf)                    size: 44027 bytes.
+
+
+pdfTeX warning: pdflatex (file ./PS03_projection_code_modif/Results/GR_res_conv
+erge1_diff_IRF1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, 
+but at most version <1.5> allowed
+
+<PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF1-eps-converted-to
+.pdf, id=33, 349.305pt x 287.0725pt>
+File: PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF1-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF1-eps-converte
+d-to.pdf>
+Package pdftex.def Info: PS03_projection_code_modif/Results/GR_res_converge1_di
+ff_IRF1-eps-converted-to.pdf used on input line 220.
+(pdftex.def)             Requested size: 361.34999pt x 296.98894pt.
+
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 220--221
+[][] 
+ []
+
+Package epstopdf Info: Source file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF2.eps>
+(epstopdf)                    date: 2019-12-25 10:58:57
+(epstopdf)                    size: 43099 bytes
+(epstopdf)             Output file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF2-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=PS03_projection_code_modif
+/Results/GR_res_converge1_diff_IRF2-eps-converted-to.pdf PS03_projection_code_m
+odif/Results/GR_res_converge1_diff_IRF2.eps>
+(epstopdf)             \includegraphics on input line 225.
+runsystem(repstopdf --outfile=PS03_projection_code_modif/Results/GR_res_converg
+e1_diff_IRF2-eps-converted-to.pdf PS03_projection_code_modif/Results/GR_res_con
+verge1_diff_IRF2.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <PS03_projection_code_modif/Results/GR_res_
+converge1_diff_IRF2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-25 13:14:05
+(epstopdf)                    size: 32359 bytes.
+
+
+pdfTeX warning: pdflatex (file ./PS03_projection_code_modif/Results/GR_res_conv
+erge1_diff_IRF2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, 
+but at most version <1.5> allowed
+
+<PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF2-eps-converted-to
+.pdf, id=34, 488.82625pt x 508.90125pt>
+File: PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF2-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF2-eps-converte
+d-to.pdf>
+Package pdftex.def Info: PS03_projection_code_modif/Results/GR_res_converge1_di
+ff_IRF2-eps-converted-to.pdf used on input line 225.
 (pdftex.def)             Requested size: 289.07999pt x 300.95576pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 5    R 1.020408 | 1.019113, 0.010460 | 1.017850, 0.009993 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 22    Y 1.077365 | 1.071265, 0.027937 | 1.089912, 0.020631 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 1    a 0.000000 | 0.999986, 0.010115 | 1.012053, 0.004091 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 2 alower 0.000000 | 0.899988, 0.009103 | 0.910848, 0.003682 
 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 17 bFpol -23.657270 | -23.108187, 4.968757 |
  []
 
 [5] [6 <./PS03_projection_code_modif/Results/GR_orig_diff_IRF1-eps-converted-to
 .pdf>] [7 <./PS03_projection_code_modif/Results/GR_orig_diff_IRF2-eps-converted
--to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+-to.pdf>] [8 <./PS03_projection_code_modif/Results/GR_res_converge1_diff_IRF1-e
+ps-converted-to.pdf>] [9 <./PS03_projection_code_modif/Results/GR_res_converge1
+_diff_IRF2-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 18 bGpol 23.657270 | 23.109600, 4.969037 | 25.666051, 3.4462
 98 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 28 bind_muF 0.000000 | 0.595960, 0.490730 | 0.318786, 0.4660
 79 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 13   cF 0.138347 | 0.132895, 0.031842 | 0.150491, 0.029638 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 14   cG 0.939018 | 0.937553, 0.015172 | 0.938495, 0.016943 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 30 eff_theta 0.000000 | 1.000000, 0.000000 | 1.000000, 0.000
 000 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 25 expRF 0.000000 | 1.024116, 0.010650 | 1.021603, 0.012210 
 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 26 expRG 0.000000 | 1.020635, 0.010363 | 1.019118, 0.011013 
 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 20   kF 0.621148 | 0.613308, 0.126437 | 0.645528, 0.111327 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 16 kFpol 0.000000 | 0.613309, 0.126437 | 0.675182, 0.089967 
 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 19 kGpol 0.378852 | 0.383105, 0.125320 | 0.322087, 0.088084 
 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 11 lamF 0.000000 | 0.000000, 0.000000 | 0.000000, 0.000000 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 12 lamG 0.000000 | 0.000000, 0.000000 | 0.000000, 0.000000 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 21 levF 0.918367 | 0.909176, 0.018263 | 0.896154, 0.017104 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 27 min_q 0.000000 | 41.878414, 1.397808 | 42.794101, 1.00361
 9 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 10  muF 0.312823 | 0.374079, 0.319417 | 0.176181, 0.270559 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 15    q 42.318182 | 41.882492, 1.396205 | 42.797771, 1.00247
 5 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 24   wF 2.766932 | 3.004526, 0.986415 | 3.562434, 0.948822 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 29 wFsh 0.000000 | 0.071315, 0.022584 | 0.083092, 0.022060 |
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmtt/m/n/10 23   wG 40.628614 | 39.945153, 1.112652 | 40.321578, 1.10328
 2 |
  []
 
-[8] [9] (RAMM_937_PS03_projctn_tim.aux) ) 
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 5    R 1.020408 | 1.019295, 0.007243 | 1.018633, 0.007504 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 22    Y 0.975975 | 0.975381, 0.030776 | 0.992646, 0.027295 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 1    a 0.000000 | 0.999986, 0.010115 | 1.012053, 0.004091 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 2 alower 0.000000 | 0.849989, 0.008598 | 0.860245, 0.003477 
+|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 17 bFpol -23.085706 | -25.732612, 7.502376 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 18 bGpol 23.085706 | 25.733536, 7.502521 | 28.945329, 6.9219
+18 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 28 bind_muF 0.000000 | 0.787679, 0.408971 | 0.656230, 0.4750
+41 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 13   cF 0.149882 | 0.132928, 0.034326 | 0.148397, 0.034081 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 14   cG 0.826093 | 0.842075, 0.009413 | 0.843803, 0.011185 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 30 eff_theta 0.000000 | 1.000000, 0.000000 | 1.000000, 0.000
+000 |
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 25 expRF 0.000000 | 1.023439, 0.007417 | 1.022144, 0.008190 
+|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 26 expRG 0.000000 | 1.020290, 0.007189 | 1.019577, 0.007445 
+|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 20   kF 0.621019 | 0.643431, 0.181261 | 0.682151, 0.178951 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 16 kFpol 0.000000 | 0.643430, 0.181260 | 0.719287, 0.170978 
+|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 19 kGpol 0.378981 | 0.349245, 0.183292 | 0.275141, 0.171236 
+|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 11 lamF 0.000000 | 0.000000, 0.000000 | 0.000000, 0.000000 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 12 lamG 0.000000 | 0.000000, 0.000000 | 0.000000, 0.000000 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 21 levF 0.918367 | 0.915734, 0.009667 | 0.907225, 0.008191 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 27 min_q 0.000000 | 43.000508, 1.028703 | 43.727701, 0.81559
+7 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 10  muF 0.310723 | 0.507375, 0.271475 | 0.413155, 0.306377 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 15    q 41.304348 | 43.005437, 1.027730 | 43.731324, 0.81483
+1 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 24   wF 2.714961 | 2.532390, 0.916946 | 3.003948, 1.025174 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 29 wFsh 0.000000 | 0.058544, 0.020480 | 0.068475, 0.023106 |
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\OT1/cmtt/m/n/10 23   wG 39.565362 | 41.443500, 0.710540 | 41.716399, 0.87943
+2 |
+ []
+
+[12] [13] (./RAMM_937_PS03_projctn_tim.aux) ) 
 Here is how much of TeX's memory you used:
- 1519 strings out of 492972
- 22574 string characters out of 3135883
- 87002 words of memory out of 3000000
- 5387 multiletter control sequences out of 15000+200000
- 7451 words of font info for 27 fonts, out of 3000000 for 9000
+ 1582 strings out of 493029
+ 23920 string characters out of 6136233
+ 84456 words of memory out of 5000000
+ 5112 multiletter control sequences out of 15000+600000
+ 7451 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,25p,656b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on RAMM_937_PS03_projctn_tim.pdf (9 pages, 516377 bytes).
+ 38i,8n,23p,654b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb>
+Output written on RAMM_937_PS03_projctn_tim.pdf (13 pages, 578641 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

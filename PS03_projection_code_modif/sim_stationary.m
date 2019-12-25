@@ -7,7 +7,8 @@ close all;
 
 % file with model
 respath='./';
-resfile='res_alpha90'; 
+%resfile='res_alpha90'; 
+resfile='res_converge1'; 
 load([respath,resfile,'.mat']);
 
 % Update params

@@ -5,7 +5,7 @@ respath='./';
 outpath='./Results/';
 
 % without and with adj. cost
-if ~exist('econ', 'var'), econ='bench'; end
+if ~exist('econ', 'var'), econ='converge1'; end %econ='bench'; end
 if ~exist('econ2', 'var'), econ2='theta875'; end
 if ~exist('colors', 'var'), colors = {'b', 'r'}; end
 %if ~exist('label', 'var'), labels = {'\alpha=0.7', '\alpha=0.9'}; end

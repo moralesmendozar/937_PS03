@@ -1,6 +1,6 @@
 % main_setup(experdef,'theta875',[],false)
 % main_setup()
 % main_execute()
-% sim_stationary()
+sim_stationary()
 % sim_trans()
 % plot_trans()
