@@ -26,7 +26,7 @@ params.Kbar=1;
 params.phi=0;
 
 % credit
-params.theta=0.8;
+params.theta=0.9;
 params.use_min_q = true;
 
 %========================================================================================
@@ -34,16 +34,14 @@ params.use_min_q = true;
 %========================================================================================
 
 % grid for bench
-grids.benchgrid.kF={ linspace(0.06, 0.8, 8) };
-grids.benchgrid.levF={ linspace(0.75,1.0,10) };
+%grids.benchgrid.kF={ linspace(0.06, 0.8, 8) };
+%grids.benchgrid.levF={ linspace(0.75,1.0,10) };
 %grids.benchgrid.kF={ linspace(0.06, 0.8, 8) };
 %grids.benchgrid.levF={ linspace(0.6,1.0,10) };  %0.017196  (400ite)
 %grids.benchgrid.kF={ linspace(0.065, 0.8, 8) };
-%grids.benchgrid.levF={ linspace(0.6,1.0,10) };   %0.062415
-%grids.benchgrid.kF={ linspace(0.06, 0.8, 8) };
-%grids.benchgrid.levF={ linspace(0.45,0.95,10) };  
-%grids.benchgrid.kF={ linspace(0.01, 0.99,8) };
-%grids.benchgrid.levF={ linspace(0.75,1.0,10) };
+%grids.benchgrid.levF={ linspace(0.6,1.0,10) };   
+grids.benchgrid.kF={ linspace(0.06, 0.8, 8) };
+grids.benchgrid.levF={ linspace(0.3,1.0,10) };   
 
 
 % grid for theta=0.875

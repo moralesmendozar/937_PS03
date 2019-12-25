@@ -40,8 +40,8 @@ wFsh = (q*kF + R*bF)/(q*Kbar);
 cF = wF - q*kF - bF;
 wG = yG + q*kG + R*bG;
 cG = wG - q*kG - bG;
-levF= -R*bF/(q*kF);
-
+%levF= -R*bF/(q*kF);
+levF= -bF/(q*kF);
 
 if print
     % print steady state values

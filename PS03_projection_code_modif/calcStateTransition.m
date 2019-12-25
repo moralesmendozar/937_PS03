@@ -20,7 +20,7 @@ else
 end
 
 % extract endogeous variables
-%R=exp(solvec(1));
+R=exp(solvec(1)); % was commented
 q=exp(solvec(2));
 cF=exp(solvec(3));
 cG=exp(solvec(4));
@@ -33,7 +33,8 @@ kFpol = Kbar - kGpol;
 % aggregate output
 Y = a*kF + alower*kG^alpha;
 % farmer wealth
-RbF = levF * q*kF;
+%RbF = levF * q*kF;
+RbF = R*levF * q*kF;
 wF = (a+q)*kF - RbF;
 % wealth distribution
 wG = alower*kG^alpha + q*kG + RbF;

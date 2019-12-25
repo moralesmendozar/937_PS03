@@ -102,7 +102,8 @@ fx(8)= bGpol + bFpol;
 % Transitions
 nst = length(a_next);
 kFtrans = kFpol*ones(nst,1);
-levFtrans = -R*bFpol./(q_next*kFpol);
+%levFtrans = -R*bFpol./(q_next*kFpol);
+levFtrans = -bFpol./(q_next*kFpol);
 
 V=cell(3,1);
 J=[];

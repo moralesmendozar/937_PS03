@@ -25,7 +25,8 @@ kFpol = Kbar - kGpol;
 % aggregate output
 Y = a*kF + alower*kG^alpha;
 % farmer wealth
-RbF = levF * q*kF;
+%RbF = R*levF * q*kF;
+RbF = R*levF * q*kF;
 wF = (a+q)*kF - RbF;
 % wealth distribution
 wG = alower*kG^alpha + q*kG + RbF;
