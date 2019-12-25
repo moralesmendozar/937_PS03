@@ -8,7 +8,7 @@ close all;
 % file with model
 respath='./';
 outpath='./Results/';
-resfile_list={'res_theta875'};       
+resfile_list={'res_converge1'};       
 
 for f=1:length(resfile_list)
     

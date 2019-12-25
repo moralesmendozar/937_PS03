@@ -4,7 +4,7 @@ close all;
 respath='./';
 outpath='./Results/';
 if ~exist('resfile','var')
-    resfile='res_phi04';
+    resfile='res_converge1';
 end
 outfile=['GR_',resfile];
 grayscale=0;
